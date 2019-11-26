@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'opensan';
-    src: url('/public/font/OpenSans-Regular.ttf');
+    src: url('OpenSans-Regular.ttf');
 }
 
 .popup{
@@ -403,7 +403,7 @@ span:hover{
 
     @font-face {
         font-family: 'opensan';
-        src: url('/public/font/OpenSans-Regular.ttf');
+        src: url('OpenSans-Regular.ttf');
     }
    
     body{

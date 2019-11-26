@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'opensans';
-    src: url('/public/font/OpenSans-Regular.ttf');
+    src: url('OpenSans-Regular.ttf');
 }
 
 /*-------------------------------  */
@@ -244,7 +244,7 @@ span:hover{
 @media only screen and (max-width:480px){
     @font-face {
         font-family: 'opensan';
-        src: url('/public/font/OpenSans-Regular.ttf');
+        src: url('OpenSans-Regular.ttf');
     }
    
     body{
