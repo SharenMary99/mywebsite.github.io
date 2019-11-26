@@ -374,20 +374,19 @@ span:hover{
     .menu:hover .menulist{
         display: block;
     }
-
-    .listone{
-         font-weight:bold;
-         font-size: 90%;
-         margin-top: -20% ;
-         margin-left: -50%;
-         
-    }
-    .listtwo{
-        font-weight:bold;
-        font-size: 90%;
-        margin-top: -19%;
-        margin-left: -55vw;
-    }
+     .listone{
+            font-weight:bold;
+            font-size: 90%;
+            margin-top: -18% ;
+            margin-left: -50%;
+             
+        }
+        .listtwo{
+            font-weight:bold;
+            font-size: 90%;
+            margin-top: -14.5%;
+            margin-left: -55vw;
+        }
 
     span{
         text-align: center;
